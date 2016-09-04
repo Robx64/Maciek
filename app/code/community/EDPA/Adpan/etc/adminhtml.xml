@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <edpa_adpan translate="title" module="edpa_adpan">
+            <title>EDPA-offers</title>
+            <sort_order>5002</sort_order>
+            <children>
+                <panel translate="title" module="edpa_adpan">
+                    <title>Offered Products</title>
+                    <sort_order>10</sort_order>
+                    <action>adminhtml/edpa_adpan_panel</action>
+                </panel>
+            </children>
+        </edpa_adpan>
+    </menu>
+</config>

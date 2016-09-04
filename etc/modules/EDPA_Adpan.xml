@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <EDPA_Adpan>
+            <active>true</active>
+            <codePool>community</codePool>
+        </EDPA_Adpan>
+    </modules>
+</config>

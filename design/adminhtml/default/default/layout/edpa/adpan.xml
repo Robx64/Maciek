@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout>
+    <adminhtml_edpa_adpan_panel_index>
+        <reference name="content">
+            <block type="edpa_adpan/adminhtml_panel" name="panel" />
+        </reference>
+    </adminhtml_edpa_adpan_panel_index>
+    <adminhtml_edpa_adpan_panel_edit>
+        <reference name="content">
+            <block type="edpa_adpan/adminhtml_panel_edit" name="panel.edit" />
+        </reference>
+    </adminhtml_edpa_adpan_panel_edit>
+</layout>
